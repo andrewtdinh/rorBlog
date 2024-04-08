@@ -1,6 +1,6 @@
 ## Ruby on Rails Blog
 
-Ruby on Rails, while not often mentioned today, still maintain a prevalence in the web development world.  In this repo, I am setting up a simple blog to play with RoR according to the [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html) tutorial on RailsGuide.
+Ruby on Rails, while not often mentioned today, still maintains a prevalence in the web development world.  In this repo, I am setting up a simple blog to play with RoR according to the [Getting Started with Rails](https://guides.rubyonrails.org/getting_started.html) tutorial on RailsGuide.
 
 So far the hardest work was on installing ruby and Rails.  Even though MacOS comes with ruby installed, that version is quite out-of-date.  Initial attempts to use `rvm` to install any recent versions of ruby were futile.  However, I was finally able to install ruby with `asdf`.   
 
